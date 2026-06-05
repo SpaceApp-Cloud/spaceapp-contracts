@@ -1,0 +1,9 @@
+{
+  "event_version": "1.0",
+  "event_type": "BATCH_REGISTERED",
+  "batch_id": "",
+  "batch_type": "",
+  "status": "",
+  "created_at": "",
+  "source": ""
+}

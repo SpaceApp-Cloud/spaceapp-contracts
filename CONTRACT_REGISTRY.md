@@ -112,3 +112,22 @@ REPLAY.md
 
 Validation:
 .github/workflows/validate-contracts.yml
+
+---
+
+## BatchRegistryEvent
+
+Version:
+1.0
+
+Schema:
+
+schemas/BatchRegistryEvent.schema.json
+
+Contract:
+
+BatchRegistryEvent.json
+
+Purpose:
+
+Batch registration and tracking.
