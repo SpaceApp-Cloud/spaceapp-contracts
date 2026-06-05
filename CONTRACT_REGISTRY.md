@@ -131,3 +131,62 @@ BatchRegistryEvent.json
 Purpose:
 
 Batch registration and tracking.
+
+---
+
+## NOTAMEvent
+
+Version:
+1.0
+
+Schema:
+
+schemas/NOTAMEvent.schema.json
+
+Contract:
+
+NOTAMEvent.json
+
+Purpose:
+
+Aviation regulatory intelligence.
+
+---
+
+## NTMEvent
+
+Version:
+1.0
+
+Schema:
+
+schemas/NTMEvent.schema.json
+
+Contract:
+
+NTMEvent.json
+
+Purpose:
+
+Maritime regulatory intelligence.
+
+---
+
+## LaunchCorrelationEvent
+
+Version:
+1.0
+
+Schema:
+
+schemas/LaunchCorrelationEvent.schema.json
+
+Contract:
+
+LaunchCorrelationEvent.json
+
+Purpose:
+
+Launch signal correlation and confidence scoring.
+
+---
