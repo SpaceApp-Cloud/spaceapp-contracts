@@ -1,0 +1,14 @@
+{
+  "event_version": "1.0",
+  "event_id": "",
+  "event_type": "LAUNCH_DETECTED",
+  "launch_event_id": "",
+  "provider": "",
+  "vehicle": "",
+  "launch_site": "",
+  "launch_window_open": "",
+  "launch_window_close": "",
+  "confidence_score": 0.95,
+  "source": "",
+  "timestamp": ""
+}

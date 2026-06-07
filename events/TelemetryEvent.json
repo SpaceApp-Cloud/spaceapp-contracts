@@ -1,0 +1,10 @@
+{
+  "event_version": "1.0",
+  "event_id": "",
+  "event_type": "TELEMETRY",
+  "mission_id": "",
+  "timestamp": "",
+  "source": "",
+  "state_vector": {},
+  "metrics": {}
+}
